@@ -1,4 +1,4 @@
-# Hi there 👋
+# Kumusta po! 👋
 
 I'm Anna.. or Joy.. call me whatever you want hehe. _pwede ring cutie ^_-_
 
