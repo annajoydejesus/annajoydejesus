@@ -16,7 +16,6 @@ I'm a Mechatronics Engineer passionate about combining **Artificial Intelligence
 
 My current interests include:
 
-- ☀️ Intelligent MPPT algorithms for photovoltaic systems
 - 🤖 Artificial Intelligence & Machine Learning
 - 🛰️ Remote Sensing and Satellite Image Classification
 - ⚡ MATLAB & Simulink
@@ -31,9 +30,7 @@ My current interests include:
 - Machine Learning
 - Deep Learning
 - Intelligent Control
-- Fuzzy Logic
 - Renewable Energy
-- Solar Energy
 - Embedded Systems
 - Remote Sensing
 - Computer Vision
@@ -50,9 +47,7 @@ My current interests include:
 
 - MATLAB
 - Simulink
-- SolidWorks
-- Proteus
-- Altium Designer
+- SolidWorks / OnShape
 
 ---
 
@@ -60,7 +55,7 @@ My current interests include:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=annajoydejesus&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=annajoydejesus&theme=midnight-purple"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annajoydejesus&layout=compact&theme=tokyonight"/>
 
@@ -100,7 +95,7 @@ Cross-date multispectral satellite image classification using deep learning.
 ---
 
 ## 🌱 Currently Learning
-
+- Satellite Image Classification
 - Computer Vision
 - Deep Learning
 - Advanced MATLAB Programming
@@ -109,7 +104,7 @@ Cross-date multispectral satellite image classification using deep learning.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [*(Add your LinkedIn URL here)*](https://www.linkedin.com/in/anna-joy-de-jesus-45767033a/)
+- 💼 LinkedIn: [*Anna Joy O. De Jesus*](https://www.linkedin.com/in/anna-joy-de-jesus-45767033a/)
 - 📧 Email: annajoydejesus17@gmail.com
 
 ---
