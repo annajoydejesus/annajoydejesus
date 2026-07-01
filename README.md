@@ -5,14 +5,14 @@ Mechatronics Engineer • AI Researcher • Embedded Systems Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=650&lines=Artificial+Intelligence;Mechatronics+Engineering;MATLAB+%26+Simulink;Embedded+Systems;Remote+Sensing;Renewable+Energy+Research" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=9D00FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence;Mechatronics+Engineering;MATLAB+%26+Simulink;Embedded+Systems;Remote+Sensing;Renewable+Energy+Research" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a Mechatronics Engineer passionate about combining **Artificial Intelligence**, **Embedded Systems**, and **Renewable Energy** to develop intelligent engineering solutions.
+I'm a Mechatronics Engineer passionate about combining **Artificial Intelligence**, **Satellite Imagery**, **Embedded Systems** to develop intelligent engineering solutions.
 
 My current interests include:
 
@@ -81,13 +81,6 @@ My current interests include:
 
 ## 🚀 Current Projects
 
-🌞 **Segmented Variable-Step MPPT Framework**
-
-- Large-Step Perturb & Observe
-- Predictive Fuzzy PID Controller
-- MATLAB/Simulink
-- Arduino Mega Implementation
-
 🛰️ **Physics-Informed 1D CNN**
 
 Cross-date multispectral satellite image classification using deep learning.
@@ -104,7 +97,7 @@ Cross-date multispectral satellite image classification using deep learning.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [*Anna Joy O. De Jesus*](https://www.linkedin.com/in/anna-joy-de-jesus-45767033a/)
+- 💼 LinkedIn: (https://www.linkedin.com/in/anna-joy-de-jesus-45767033a/)
 - 📧 Email: annajoydejesus17@gmail.com
 
 ---
