@@ -1,13 +1,3 @@
-<p align="center">
-  <img
-    src="banner1.jpg"
-    alt="Banner"
-    width="100%"
-  />
-</p>
-
-<br>
-
 <h1 align="center">Kumusta 👋 I'm Anna Joy De Jesus</h1>
 
 <h3 align="center">
