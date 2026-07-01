@@ -12,7 +12,7 @@ Mechatronics Engineer • AI Researcher • Embedded Systems Enthusiast
 
 ## 👩‍💻 About Me
 
-I'm a Mechatronics Engineer passionate about combining **Artificial Intelligence**, **Satellite Imagery**, **Embedded Systems** to develop intelligent engineering solutions.
+I'm a Mechatronics Engineer passionate about combining **Artificial Intelligence**, **Satellite Imagery**, **Embedded Systems** to develop intelligent engineering solutions. I am currently working as the University Research Associate of the Digital Transformation Center at Batangas State University - TNEU.
 
 My current interests include:
 
@@ -27,7 +27,7 @@ My current interests include:
 ## 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,github,vscode"/>
 </p>
 
 ### Engineering Software
@@ -43,8 +43,6 @@ My current interests include:
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=annajoydejesus&theme=midnight-purple"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annajoydejesus&layout=compact&theme=tokyonight"/>
 
 </p>
 
