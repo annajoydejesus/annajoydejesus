@@ -10,21 +10,13 @@ Mechatronics Engineer • AI Researcher • Embedded Systems Enthusiast
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-I'm a Mechatronics Engineer passionate about combining **Artificial Intelligence**, **Satellite Imagery**, **Embedded Systems** to develop intelligent engineering solutions. I am currently working as the University Research Associate of the Digital Transformation Center at Batangas State University - TNEU.
-
-My current interests include:
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 🛰️ Remote Sensing and Satellite Image Classification
-- ⚡ MATLAB & Simulink
-- 🔌 Arduino and Embedded Systems
-- 📈 Intelligent Control Systems
+I'm a Mechatronics Engineer currently studying **Artificial Intelligence**, **Satellite Imagery**, **Embedded Systems** to develop intelligent engineering solutions. I am currently working as the University Research Associate of the Digital Transformation Center at Batangas State University - TNEU.
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,github,vscode"/>
@@ -38,44 +30,18 @@ My current interests include:
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
+## Current Projects
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=annajoydejesus&theme=midnight-purple"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=annajoydejesus&theme=tokyonight"/>
-</p>
-
----
-
-
-## 🚀 Current Projects
-
-🛰️ **Physics-Informed 1D CNN**
+**Physics-Informed 1D CNN**
 
 Cross-date multispectral satellite image classification using deep learning.
 
 ---
 
-## 🌱 Currently Learning
-- Satellite Image Classification
-- Computer Vision
-- Deep Learning
-- Advanced MATLAB Programming
+## Connect With Me
 
----
-
-## 📫 Connect With Me
-
-- 📧 Email: annajoydejesus17@gmail.com
+- Email: annajoydejesus17@gmail.com
 
 ---
 
@@ -84,5 +50,5 @@ Cross-date multispectral satellite image classification using deep learning.
 </p>
 
 <p align="center">
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile! See you around! ⭐
 </p>
