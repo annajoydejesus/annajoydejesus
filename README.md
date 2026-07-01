@@ -1,11 +1,21 @@
-<h1 align="center">Hi 👋 I'm Anna Joy De Jesus</h1>
+<p align="center">
+  <img
+    src="banner1.jpg"
+    alt="Banner"
+    width="100%"
+  />
+</p>
+
+<br>
+
+<h1 align="center">Kumusta 👋 I'm Anna Joy De Jesus</h1>
 
 <h3 align="center">
 Mechatronics Engineer • AI Researcher • Embedded Systems Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=9D00FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence;Mechatronics+Engineering;MATLAB+%26+Simulink;Embedded+Systems;Remote+Sensing;Renewable+Energy+Research" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=9D00FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence;Mechatronics+Engineering;MATLAB+%26+Simulink;Embedded+Systems;Remote+Sensing;Research" />
 </p>
 
 ---
@@ -21,19 +31,6 @@ My current interests include:
 - ⚡ MATLAB & Simulink
 - 🔌 Arduino and Embedded Systems
 - 📈 Intelligent Control Systems
-
----
-
-## 🔬 Research Interests
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Intelligent Control
-- Renewable Energy
-- Embedded Systems
-- Remote Sensing
-- Computer Vision
 
 ---
 
@@ -71,13 +68,6 @@ My current interests include:
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=annajoydejesus&theme=tokyo-night"/>
-</p>
-
----
 
 ## 🚀 Current Projects
 
@@ -97,7 +87,6 @@ Cross-date multispectral satellite image classification using deep learning.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (https://www.linkedin.com/in/anna-joy-de-jesus-45767033a/)
 - 📧 Email: annajoydejesus17@gmail.com
 
 ---
